@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+Flask==3.0.0
+openai==1.30.0
+duckduckgo_search==6.2.0
+requests==2.31.0
+gunicorn==22.0.0
